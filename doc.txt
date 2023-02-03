@@ -1,0 +1,28 @@
+Books
+Courses
+Others
+Blog
+
+
+---------
+
+
+font-family---
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+Poppins-400,500,700
+
+Roboto--400
+
+
+
+color----
+bgc-#F0FFF0
+red-#FD511A
+black-#000000
+green-#21B573
+
+
+padding----
